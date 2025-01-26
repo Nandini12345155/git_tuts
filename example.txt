@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi dev1 in example
+=======
+Hi nan
+>>>>>>> origin/master
